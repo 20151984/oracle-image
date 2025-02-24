@@ -1,1 +1,1 @@
-FROM konnecteam/docker-oracle-12c
+FROM konnecteam/docker-oracle-12c:sequelize
