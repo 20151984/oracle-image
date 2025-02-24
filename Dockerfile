@@ -1,1 +1,1 @@
-FROM sath89/oracle-12c:latest
+FROM konnecteam/docker-oracle-12c:latest
